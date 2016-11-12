@@ -8,8 +8,8 @@ This chapter teaches:
 * Arduino: Talk to the Serial console
 * Android: Turn on the Bluetooth Radio
 
-![ScreenShot](Screenshots/Android 1.png)
-![ScreenShot](Screenshots/Android 2.jpg)
+![ScreenShot](Screenshots/Android 1.jpg| width=100)
+![ScreenShot](Screenshots/Android 2.jpg| width=100)
 
 If you find these examples helpful and you haven't purchased the book, please consider doing so.
 
