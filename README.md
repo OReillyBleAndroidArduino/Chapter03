@@ -8,9 +8,6 @@ This chapter teaches:
 * Arduino: Talk to the Serial console
 * Android: Turn on the Bluetooth Radio
 
-![ScreenShot](Screenshots/Android 1.jpg| width=100)
-![ScreenShot](Screenshots/Android 2.jpg| width=100)
-
 If you find these examples helpful and you haven't purchased the book, please consider doing so.
 
 The book itself is copyrighted material, pbulished under an MIT License. The license allows you to modify and reuse, and distribute this code for private or commercial use.
@@ -18,6 +15,14 @@ The book itself is copyrighted material, pbulished under an MIT License. The lic
 Generally, you may use this code in your programs and documentation without my permission, unless you are reproducing a significant portion of the code.  For example, writing a program that uses several chunks of code from this repository does not require permission. Selling or distributing a CD-ROM of examples from this repository does require permission. Answering a question by citing this material and quoting example code does not require permission. Incorporating a significant amount of example code from this repository into your product’s documentation does require permission.
 
 - Tony Gaitatzis (<backupbrain@gmail.com>)
+
+Screenshots
+-----------
+
+
+![ScreenShot](Screenshots/Android 1.jpg)
+![ScreenShot](Screenshots/Android 2.jpg)
+
 
 
 MIT License
