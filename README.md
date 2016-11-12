@@ -8,6 +8,9 @@ This chapter teaches:
 * Arduino: Talk to the Serial console
 * Android: Turn on the Bluetooth Radio
 
+![ScreenShot](Screenshots/Android 1.png)
+![ScreenShot](Screenshots/Android 2.jpg)
+
 If you find these examples helpful and you haven't purchased the book, please consider doing so.
 
 The book itself is copyrighted material, pbulished under an MIT License. The license allows you to modify and reuse, and distribute this code for private or commercial use.
