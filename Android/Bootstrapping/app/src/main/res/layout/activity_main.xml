@@ -25,8 +25,9 @@
         tools:showIn="@layout/activity_main" tools:context=".MainActivity">
 
 
-        <ListView
-            android:id="@+id/devices_list"
+        <TextView
+            android:id="@+id/bluetooth_status"
+            android:text="@string/loading"
             android:layout_width="fill_parent"
             android:layout_height="fill_parent" />
     </RelativeLayout>

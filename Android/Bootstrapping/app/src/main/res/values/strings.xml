@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ExampleBLE</string>
+    <string name="loading">Loading&#8230;</string>
+    <string name="bluetooth_active">Bluetooth Active</string>
 </resources>
